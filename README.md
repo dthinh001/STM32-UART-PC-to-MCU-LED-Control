@@ -7,7 +7,7 @@ A PC sends 2-byte commands through USART1 to control 8 LEDs connected to the MCU
 
 The project focuses on low-level embedded programming using direct peripheral register configuration instead of high-level libraries such as HAL.
 
-Main features:
+## Main features:
 
 - Control 8 LEDs from a PC through UART commands
 - Receive UART data using USART1 RXNE interrupt

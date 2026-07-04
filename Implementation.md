@@ -1,13 +1,13 @@
-## HAL vs Register-Level Response Time Comparison
+# HAL vs Register-Level Response Time Comparison
 
-# HAL
+## HAL
 <img src="imgs/HAL.jpg" width="800">
 
-# Register-level
+## Register-level
 
 <img src="imgs/REG.jpg" width="800">
 
-### Conclusion
+## Conclusion
 
 With the same control logic and UART command processing algorithm, the register-level implementation achieved a significantly faster response time than the STM32 HAL implementation. Specifically, the response time of the HAL version was approximately `7,6` times slower than the register-level version.
 

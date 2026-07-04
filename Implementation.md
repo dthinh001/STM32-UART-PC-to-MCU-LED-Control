@@ -1,3 +1,3 @@
 ## Pin Configuration
 
-![Pin Config](imgs/Pin Config.jpg)
+![Pin Config](imgs/Pin_Config.jpg)

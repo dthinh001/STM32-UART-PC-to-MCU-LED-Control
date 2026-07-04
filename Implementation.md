@@ -1,11 +1,11 @@
 ## HAL vs Register-Level Response Time Comparison
 
 # HAL
-<img src="imgs/HAL.jpg" width="600">
+<img src="imgs/HAL.jpg" width="800">
 
 # Register-level
 
-<img src="imgs/REG.jpg" width="600">
+<img src="imgs/REG.jpg" width="800">
 
 ### Conclusion
 
